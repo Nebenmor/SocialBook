@@ -483,3 +483,12 @@ nav {
     margin-bottom: 14px;
 }
 
+.profile-details {
+    background-color: var(--bg-color);
+    padding: 20px;
+    border-radius: 4px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
