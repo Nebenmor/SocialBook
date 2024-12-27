@@ -508,3 +508,7 @@ nav {
     font-weight: 600;
 }
 
+.pd-row div p {
+    font-size: 13px;
+}
+
