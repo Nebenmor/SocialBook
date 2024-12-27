@@ -470,3 +470,10 @@ nav {
     padding-left: 23px;
     background: #0a0a0a;
 }
+
+/* Profile Page */
+.profile-container {
+    padding: 20px 15%;
+    color: #626262;
+}
+
