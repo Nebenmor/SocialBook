@@ -492,3 +492,8 @@ nav {
     justify-content: space-between;
 }
 
+.pd-row {
+    display: flex;
+    align-items: flex-start;
+}
+
