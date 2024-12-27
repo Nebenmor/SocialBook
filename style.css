@@ -458,3 +458,11 @@ nav {
     transition: padding-left 0.5s, background 0.5s;
 }
 
+#dark-btn span {
+    width: 18px;
+    height: 18px;
+    background: #fff;
+    border-radius: 50%;
+    display: inline-block;
+}
+
