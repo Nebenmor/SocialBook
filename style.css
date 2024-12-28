@@ -594,3 +594,10 @@ nav {
     margin-bottom: -3px;
 }
 
+.profile-intro hr {
+    border: 0;
+    height: 1px;
+    background: #ccc;
+    margin: 24px 0;
+}
+
