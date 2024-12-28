@@ -628,3 +628,8 @@ nav {
     margin-top: 15px;
 }
 
+.photo-box div img {
+    width: 100%;
+    cursor: pointer;
+}
+
