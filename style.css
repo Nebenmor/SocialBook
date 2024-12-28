@@ -621,3 +621,10 @@ nav {
     font-size: 14px;
 }
 
+.photo-box {
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    gap: 10px;
+    margin-top: 15px;
+}
+
