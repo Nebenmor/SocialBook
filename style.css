@@ -564,3 +564,7 @@ nav {
     margin-top: 20px;
 }
 
+.info-col {
+    flex-basis: 33%;
+}
+
