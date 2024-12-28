@@ -568,3 +568,7 @@ nav {
     flex-basis: 33%;
 }
 
+.post-col {
+    flex-basis: 65%;
+}
+
