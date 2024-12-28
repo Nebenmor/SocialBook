@@ -572,3 +572,10 @@ nav {
     flex-basis: 65%;
 }
 
+.profile-intro {
+    background: var(--bg-color);
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+}
+
