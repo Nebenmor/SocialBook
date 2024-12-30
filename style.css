@@ -689,5 +689,9 @@ nav {
         margin: 0 8px;
     }
 
+    .nav-user-icon img  {
+        width: 30px;
+    }
+
     
 }
