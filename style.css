@@ -744,5 +744,10 @@ nav {
         margin-top: 15px;
     }
 
+    .pd-right button {
+        margin-left: 0;
+        margin-right: 10px;
+    }
+
     
 }
