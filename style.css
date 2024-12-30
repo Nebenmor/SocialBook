@@ -735,5 +735,9 @@ nav {
         padding: 20px 5%;
     }
 
+    .profile-details {
+        flex-wrap: wrap;
+    }
+    
     
 }
