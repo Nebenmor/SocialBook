@@ -701,5 +701,9 @@ nav {
         flex-wrap: wrap;
     }
 
+    .main-content {
+        flex-basis: 100%;
+    }
+
     
 }
