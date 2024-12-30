@@ -671,5 +671,9 @@ nav {
         display: none;
     }
 
+    nav {
+        flex-wrap: wrap;
+    }
+
     
 }
