@@ -714,5 +714,10 @@ nav {
         bottom: 30px
     }   
 
+    .add-post-links a {
+        margin-right: 12px;
+        font-size: 9px;
+    }
+
     
 }
