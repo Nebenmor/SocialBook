@@ -728,3 +728,12 @@ nav {
         padding-left: 0;
     }
 }
+
+/* Media Query For Profile Page */
+@media (max-width: 900px) {
+    .profile-container {
+        padding: 20px 5%;
+    }
+
+    
+}
