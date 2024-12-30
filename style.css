@@ -693,5 +693,9 @@ nav {
         width: 30px;
     }
 
+    .nav-user-icon {
+        margin-left: 0;
+    }
+
     
 }
