@@ -667,5 +667,9 @@ nav {
         display: none;
     }
 
+    .left-sidebar {
+        display: none;
+    }
+
     
 }
