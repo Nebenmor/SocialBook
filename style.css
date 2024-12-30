@@ -719,5 +719,10 @@ nav {
         font-size: 9px;
     }
 
+    .add-post-links a img {
+        width: 16px;
+        margin-right: 5px;
+    }
+
     
 }
