@@ -705,5 +705,9 @@ nav {
         flex-basis: 100%;
     }
 
+    .story p {
+        font-size: 10px;
+    }
+
     
 }
