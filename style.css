@@ -749,5 +749,13 @@ nav {
         margin-right: 10px;
     }
 
+    .pd-row div h3 {
+        font-size: 16px;
+    }
+
+    .profile-info {
+        flex-wrap: wrap;
+    }
+
     
 }
