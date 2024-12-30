@@ -659,3 +659,13 @@ nav {
     bottom: 0;
     left: 0;
 }
+
+/* RESPONSIVE DESIGN */
+/* Media Query For Home Page */
+@media (max-width: 900px) {
+    .right-sidebar {
+        display: none;
+    }
+
+    
+}
