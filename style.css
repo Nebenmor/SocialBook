@@ -757,5 +757,7 @@ nav {
         flex-wrap: wrap;
     }
 
-    
+    .info-col, .post-col {
+        flex-basis: 100%;
+    }
 }
