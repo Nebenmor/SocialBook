@@ -709,5 +709,10 @@ nav {
         font-size: 10px;
     }
 
+    .story.story1 img {
+        width: 25px;
+        bottom: 30px
+    }   
+
     
 }
