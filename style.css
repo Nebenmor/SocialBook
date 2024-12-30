@@ -739,5 +739,9 @@ nav {
         flex-wrap: wrap;
     }
     
-    
-}
+    .pd-right {
+        text-align: left;
+        margin-top: 15px;
+    }
+
+    }
