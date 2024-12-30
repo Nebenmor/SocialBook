@@ -724,5 +724,7 @@ nav {
         margin-right: 5px;
     }
 
-    
+    .post-input-container {
+        padding-left: 0;
+    }
 }
