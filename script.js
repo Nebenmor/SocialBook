@@ -1,5 +1,8 @@
 var settingsmenu = document.querySelector(".settings-menu");
 var darkBtn = document.getElementById("dark-btn");
+const yearUpdate = new Date().getFullYear();
+displayYear = document.getElementById("year");
+displayYear.innerHTML = yearUpdate;
 
 function settingsMenuToggle() {
     settingsmenu.classList.toggle("settings-menu-height");
